@@ -1,7 +1,4 @@
 ### Howdy! My name is Han-Yi 👋
-- 🔭 I’m a MSCS student at Texas A&M University
-- 🌱 I’m currently learning GitHub Actions
-- 💬 Ask me about anything
 
 <!--
 **henrywang1/henrywang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
